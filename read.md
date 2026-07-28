@@ -1,4 +1,4 @@
-# Wecome to Git and Github class 
+# wecome to Git and Github class 
 
-# Day_1 in progress
-# DAy_2 in progress
+# Day_1 in completed
+# Day_2 in progress
